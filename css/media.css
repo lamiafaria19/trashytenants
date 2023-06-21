@@ -1,0 +1,441 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px){
+	/*header start*/
+	header{
+		padding: 15px 0;
+	}
+	.menu{
+		padding-left: 40%;
+	}
+	.menu ul li{
+
+		margin-right: 20px;
+	}
+	.menu ul li a{
+		font-size: 18px;
+		line-height: 21px;
+	}
+	.login a{
+		font-size: 20px;
+		line-height: 24px;
+	}
+	.login i{
+		margin-left: 5px;
+		font-size: 18px;
+
+	}
+
+	/*header end*/
+
+	/*banner start*/
+	.banner{
+		padding-top: 30px;
+	}
+	.col1 h2{
+		font-size: 40px;
+		line-height: 87px;
+	}
+	.col1 h1{
+		font-size: 40px;
+		line-height: 87px;
+	}
+	.star img{
+		margin-left: 50px;
+	}
+	.search{
+		margin-top: 30px ;
+		width:520px;
+		height: 50px;
+	}
+	.search input{
+		padding:10px;
+		width:500px;
+		font-size: 20px;
+	}
+	.search i{
+		padding: 10px;
+		color: #0B0D14;
+		font-size: 25px;
+
+	}
+	/*	banner end*/
+
+		/*review start*/
+	.recent-review{
+		padding:70px 0 ;
+	}
+	.r-head h1{
+		font-size: 40px;
+		line-height: 50px;
+
+	}
+	.r1{
+		margin-top: 30px;
+		padding: 10px;
+	}
+	.t1{
+		padding: 20px;
+	}
+	.name{
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.address{
+		margin-left: 20px;
+		font-size: 10px;
+
+	}
+	.rate{
+		margin-left: 40px;
+		font-size: 10px;
+	}
+	.rate i{
+		font-size: 10px;
+	}
+	.r1 h5{
+		font-size: 12px;
+
+	}
+	.r1 p{
+		font-size: 10px;
+	}
+	.r2{
+		margin-top: 50px;
+		padding: 10px;
+	}
+	.r2 h5{
+		font-size: 12px;
+
+	}
+	.r2 p{
+		font-size: 10px;
+	}
+
+	.r3{
+		margin-top: 30px;
+		padding: 10px;
+	}
+	.r3 h5{
+		font-size: 12px;
+
+	}
+	.r3 p{
+		font-size: 10px;
+	}
+	.r4{
+		margin-top: 50px;
+		padding: 10px;
+	}
+	.r4 h5{
+		font-size: 12px;
+
+	}
+	.r4 p{
+		font-size: 10px;
+	}
+	.slider{
+		margin-top: 50px;
+	}
+	.car-ind [data-bs-target]{
+		width:10px;
+		height:10px;
+	}
+	/*review end*/
+
+	/*story start*/
+	.story{
+		padding: 70px 0;
+	}
+	.s-head h1{
+		margin-top: -60px;
+		font-size: 40px;
+		line-height: 71px;
+	}
+	.s-head img{
+		margin-left: 90%;
+
+	}
+	.s-head hr{
+		width: 95%;
+	}
+	.story p{
+		margin-top: 20px;
+		font-size: 14px;
+		line-height: 25px;
+	}
+	.arrow{
+		margin-left: 80%;
+	}
+	.rating{
+		margin-top: 30px;
+	}
+	.s-slide{
+		margin-top: 30px;
+	}
+	.prev-control , .next-control{
+		position: absolute;
+		top:380px;
+		opacity: 1;
+
+	}
+	/*story end*/
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px){
+	/*header start*/
+	header{
+		padding: 15px 0;
+	}
+	.menu{
+		padding-left: 40%;
+	}
+	.menu ul li{
+
+		margin-right: 20px;
+	}
+	.menu ul li a{
+		font-size: 18px;
+		line-height: 21px;
+	}
+	.login a{
+		font-size: 20px;
+		line-height: 24px;
+	}
+	.login i{
+		margin-left: 5px;
+		font-size: 18px;
+
+	}
+
+	/*header end*/
+
+	/*banner start*/
+	.banner{
+		padding-top: 30px;
+	}
+	.col1 h2{
+		font-size: 40px;
+		line-height: 87px;
+	}
+	.col1 h1{
+		font-size: 40px;
+		line-height: 87px;
+	}
+	.star img{
+		margin-left: 50px;
+	}
+	.search{
+		margin-top: 30px ;
+		width:520px;
+		height: 50px;
+	}
+	.search input{
+		padding:10px;
+		width:500px;
+		font-size: 20px;
+	}
+	.search i{
+		padding: 10px;
+		color: #0B0D14;
+		font-size: 25px;
+
+	}
+	/*	banner end*/
+
+	/*review start*/
+	.recent-review{
+		padding:70px 0 ;
+	}
+	.r-head h1{
+		font-size: 40px;
+		line-height: 50px;
+
+	}
+	.r1{
+		margin-top: 30px;
+		padding: 10px;
+	}
+	.t1{
+		padding: 20px;
+	}
+	.name{
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.address{
+		margin-left: 20px;
+		font-size: 10px;
+
+	}
+	.rate{
+		margin-left: 40px;
+		font-size: 10px;
+	}
+	.rate i{
+		font-size: 10px;
+	}
+	.r1 h5{
+		font-size: 12px;
+
+	}
+	.r1 p{
+		font-size: 10px;
+	}
+	.r2{
+		margin-top: 50px;
+		padding: 10px;
+	}
+	.r2 h5{
+		font-size: 12px;
+
+	}
+	.r2 p{
+		font-size: 10px;
+	}
+
+	.r3{
+		margin-top: 30px;
+		padding: 10px;
+	}
+	.r3 h5{
+		font-size: 12px;
+
+	}
+	.r3 p{
+		font-size: 10px;
+	}
+	.r4{
+		margin-top: 50px;
+		padding: 10px;
+	}
+	.r4 h5{
+		font-size: 12px;
+
+	}
+	.r4 p{
+		font-size: 10px;
+	}
+	.slider{
+		margin-top: 50px;
+	}
+	.car-ind [data-bs-target]{
+		width:10px;
+		height:10px;
+	}
+	/*review end*/
+
+	/*story start*/
+	.story{
+		padding: 70px 0;
+	}
+	.s-head h1{
+		margin-top: -60px;
+		font-size: 40px;
+		line-height: 71px;
+	}
+	.s-head img{
+		margin-left: 90%;
+
+	}
+	.s-head hr{
+		width: 95%;
+	}
+	.story p{
+		margin-top: 20px;
+		font-size: 14px;
+		line-height: 25px;
+	}
+	.arrow{
+		margin-left: 80%;
+	}
+	.rating{
+		margin-top: 30px;
+	}
+	.s-slide{
+		margin-top: 30px;
+	}
+	.prev-control , .next-control{
+		position: absolute;
+		top:380px;
+		opacity: 1;
+
+	}
+	/*story end*/
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px){
+	/*	 Header start*/
+	.menu{
+		padding-left: 40%;
+	}
+	/*	header end*/
+
+/*	banner start*/
+.banner{
+	padding-bottom: 70px;
+}
+/*banner end*/
+
+	/*	owner start*/
+	.col1-img{
+		margin-top:0;
+		height:100%;
+		background-image: url(../images/owner.png);
+		background-repeat: no-repeat;
+	}
+	/*owner end*/
+
+/*	space start*/
+.space{
+	height: 0;
+}
+
+	/*	review start*/
+	.address{
+		margin-left: 22px;
+	}
+	.slider{
+		margin-top: 70px;
+	}
+	/*review end*/
+
+	
+	/*	story start*/
+	.s-head img{
+		margin-left: 70%;
+
+	}
+	.arrow{
+		margin-left: 80%;
+	}
+	/*story end*/
+
+	/*	why us start*/
+	.w-text{
+		margin-left:30px;
+	}
+	.w1,.w3{
+		margin-top:50px;
+	}
+	/*	why us end*/
+
+
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px){
+	
+}
+
+/* Extra large devices (extra large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px){
+	
+}
+/* Extra Extra large devices (extra extra large desktops, 1400px and up) */
+@media (min-width: 1400px){
+	
+}
